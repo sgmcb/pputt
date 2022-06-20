@@ -26,7 +26,9 @@ then we build the concept of tracking what Course the Scorecard is associated wi
 
 We're starting by creating an anonymous, easy to use tool that can be developed cheaply and offered free to grow the platform. 
 - [ ] Risk check: Est. marginal cost of operating this application at scale 100, 1k, 10k MAU
-Once we demonstrate demand for this type of tool, we can start selling customization to golf courses for their Course info page. (It's a bit of a Yelp-dick move, described this way, so I think we have to be principled about this.) **This is the potential monetization.**
+Once we demonstrate demand for this type of tool, we can start selling customization to golf courses for their Course info page. (It's a bit of a Yelp-dick move, described this way, so I think we have to be principled about this.) 
+
+**This is the potential monetization.**
 
 > PPutt.app, to [Interbay Golf Center]: "We have 1k users per month using our app to keep track of scores on your course. For $5/mo, you can customize the landing page they get from this QR code, and we'll default-suggest that they report their scores to your system so you can track them in your database—e.g. for league-scoring, running company/event tournaments quickly/easily."
 
