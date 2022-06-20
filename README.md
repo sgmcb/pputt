@@ -3,7 +3,10 @@
 Its primary accecss is via this URL, which we expect to most often be accessed by QR code:
 
 [pputt.app](http://pputt.app)
-- [ ] Add QR code
+
+![qr-code-styling](https://user-images.githubusercontent.com/2374730/174653655-eb081435-b9a7-40c8-9d12-971ee1dc2987.png)
+
+
 
 (In a business context, we plan for this QR code to be posted at the entry site of the course in question. That's where the majority of our users will come from.)
 
