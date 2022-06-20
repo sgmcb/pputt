@@ -40,6 +40,7 @@ Once we demonstrate demand for this type of tool, we can start selling customiza
 # Scorecard
 
 The current version of our scorecard app should be considered the prototype:
+
 [pputt.app](http://pputt.app)
 
 - [ ] It's currently served from a pitcherputt.com TLD; we'll change that
